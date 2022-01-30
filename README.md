@@ -8,7 +8,10 @@ Here's my details: heveal@protonmail.com
 If you ever wanted to donate:
 
 - ETH Wallet: 0x068f3f9c23D7D5758244699772BD8d1E31f186DD
+
 - BTC Wallet: bc1q082lclws0yua3az2elztsc2evz7gve9pejvzjv
+
+- ZCASH Wallet: t1MhA8LAGqyDggr7gWpA6PeiHrzDBFnDsZ9
 
 <!---
 HammerWAD/HammerWAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
