@@ -6,7 +6,7 @@ Hello. My name is Neveal also known by HammerWADS.
 
 - If you are looking to reach me, you can reach me via email;
 
-Here's my details: heveal@protonmail.com
+Here's my details: NevealDOOM@protonmail.com
 
 If you ever wanted to donate:
 
